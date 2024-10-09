@@ -11,6 +11,7 @@ However, in the spirit of the Computing Industry, we have come up with several "
 
 **PMD...**
 
+*   Phix My DodgyCode
 *   Pretty Much Done
 *   Project Mess Detector
 *   Project Monitoring Directives
